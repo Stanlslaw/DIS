@@ -1,0 +1,34 @@
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.deps.json
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.runtimeconfig.json
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.dll
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.pdb
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\Models.dll
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\Models.pdb
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.csproj.AssemblyReference.cache
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.AssemblyInfoInputs.cache
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.AssemblyInfo.cs
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.csproj.CoreCompileInputs.cache
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.csproj.CopyComplete
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.dll
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\refint\DatabaseClasses.dll
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.pdb
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.genruntimeconfig.cache
+D:\My Files\Univer\3 COURSE\6 sem\РИС\lab4\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\ref\DatabaseClasses.dll
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.deps.json
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.runtimeconfig.json
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.dll
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\DatabaseClasses.pdb
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\Models.dll
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\bin\Debug\net6.0\Models.pdb
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.csproj.AssemblyReference.cache
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.AssemblyInfoInputs.cache
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.AssemblyInfo.cs
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.csproj.CoreCompileInputs.cache
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.csproj.CopyComplete
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.dll
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\refint\DatabaseClasses.dll
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.pdb
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\DatabaseClasses.genruntimeconfig.cache
+C:\Users\stass\Desktop\РИС\Lab46\4-6\Generator\DatabaseClasses\obj\Debug\net6.0\ref\DatabaseClasses.dll
